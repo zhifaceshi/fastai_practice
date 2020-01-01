@@ -31,3 +31,13 @@
 数据预测长这个样子
 
 ![](./pyg/预测结果.png)
+
+
+---
+# kaggle 文本二分类问题
+使用很简单的fastai + 调参后的结果。  
+学习到了很有趣的经验：  **wd是很重要的参数**
+
+![](./real_or_not_NLP_with_Disater_Tweets/rank.png)
+
+---
