@@ -41,3 +41,7 @@
 ![](./real_or_not_NLP_with_Disater_Tweets/rank.png)
 
 ---
+# 图片序列预测问题
++ 使用ConvLSTM 来进行图片序列预测
+
+![](./digital_movment/9_pred_9.png)
